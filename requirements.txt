@@ -1,0 +1,4 @@
+lxml==4.2.4
+numpy==1.16.0
+opencv-python==4.0.0.21
+pathlib==1.0.1
